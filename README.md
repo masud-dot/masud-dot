@@ -159,6 +159,10 @@ I write practical technology books focused on real-world engineering and impleme
   <img src="https://img.shields.io/badge/GitHub-Masud%20Mondal-181717?style=for-the-badge&logo=github" />
 </a>
 
+<a href="https://www.linkedin.com/in/masud-mondal-806957244/">
+  <img src="https://img.shields.io/badge/LinkedIn-Masud%20Mondal-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
 </div>
 
 ---
