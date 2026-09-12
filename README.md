@@ -99,7 +99,7 @@ I'm exploring practical AI-agent systems that connect LLM reasoning with tools, 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=masud-dot&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Masud Mondal GitHub statistics"/>
+<img src="./profile/stats.svg" alt="Masud Mondal GitHub statistics"/>
 
 </div>
 
