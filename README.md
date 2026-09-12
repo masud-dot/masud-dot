@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 
-I'm **Masud Mondal**, a QA Automation Engineer and Technical Author focused on building reliable, maintainable and practical automation solutions.
+I'm Masud Mondal, a QA Automation Engineer and Technical Author focused on building reliable test automation, AI-powered engineering solutions, and practical developer tools.
 
 My current engineering direction combines:
 
